@@ -1,0 +1,13 @@
+module.exports={
+  apps:[{
+    name:'online-menu',
+    cwd:__dirname,
+    script:'.output/server/index.mjs',
+    node_args:'--env-file=.env',
+    exec_mode:'fork',
+    instances:1,
+    autorestart:true,
+    max_memory_restart:'400M',
+    time:true
+  }]
+}

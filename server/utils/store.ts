@@ -2,8 +2,8 @@ import fs from 'node:fs/promises'
 import path from 'node:path'
 import crypto from 'node:crypto'
 
-export const dataDir=path.resolve('data')
-export const logsDir=path.resolve('logs')
+export const dataDir=path.resolve(process.env.DATA_DIR||'data')
+export const logsDir=path.resolve(process.env.LOGS_DIR||'logs')
 export const uploadsDir=path.join(dataDir,'uploads')
 
 const locks=new Map<string,Promise<unknown>>()

@@ -5,8 +5,9 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
+    "start": "node --env-file=.env .output/server/index.mjs",
     "preview": "nuxt preview",
+    "typecheck": "nuxt typecheck",
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
@@ -20,5 +21,8 @@
     "@types/node": "^26.6.6",
     "typescript": "^6.0.3",
     "vue-tsc": "^3.3.14"
+  },
+  "engines": {
+    "node": ">=20.12"
   }
 }
