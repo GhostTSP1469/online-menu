@@ -1,0 +1,21 @@
+:root{
+  --bg:#121212;
+  --card:#1a1a1a;
+  --line:rgba(255,255,255,.09);
+  --ink:#f4f1ea;
+  --ink2:#c9c5bc;
+  --muted:#8d8a84;
+  --red:#e3262b;
+  --gold:#c9a45c;
+  --display:'Oswald','Arial Narrow',sans-serif;
+  --body:'Manrope',system-ui,sans-serif;
+  --script:'Marck Script',cursive;
+  color-scheme:dark
+}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{margin:0;min-height:100dvh;background:radial-gradient(1200px 600px at 80% -10%,rgba(201,164,92,.08),transparent 60%),url('/stone.webp') center top/1600px auto repeat,var(--bg);color:var(--ink);font:400 15px/1.5 var(--body);-webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:transparent}
+button{font:inherit;cursor:pointer;touch-action:manipulation}
+img{display:block;max-width:100%}
+:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}

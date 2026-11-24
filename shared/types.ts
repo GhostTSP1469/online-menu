@@ -1,0 +1,9 @@
+export interface Variant{label:string;price:number}
+export interface Dish{id:string;category:string;name:string;en:string;composition:string;image:string;variants:Variant[];available?:boolean}
+export interface Category{id:string;title:string;en:string}
+export interface Menu{currency:string;categories:Category[];items:Dish[]}
+export interface CartLine{key:string;id:string;name:string;variant:string;price:number;qty:number;image:string}
+export interface OrderForm{name:string;phone:string;type:'hall'|'delivery'|'pickup';table:string;address:string;comment:string}
+export interface OrderItem{name:string;variant:string;price:number;qty:number}
+export interface Order{id:string;createdAt:string;name:string;phone:string;type:'hall'|'delivery'|'pickup';table:string;address:string;comment:string;items:OrderItem[];total:number;delivered?:boolean}
+export interface BotChat{id:number;name:string;username:string;phone?:string;addedAt:string}

@@ -1,0 +1,2015 @@
+{
+ "currency": "с",
+ "categories": [
+  {
+   "id": "salads",
+   "title": "Салаты",
+   "en": "Salads"
+  },
+  {
+   "id": "soups",
+   "title": "Первое",
+   "en": "First course"
+  },
+  {
+   "id": "main",
+   "title": "Основные блюда",
+   "en": "Main courses"
+  },
+  {
+   "id": "shashlik",
+   "title": "Шашлык",
+   "en": "Shashlik"
+  },
+  {
+   "id": "steak",
+   "title": "Стейки",
+   "en": "Steak"
+  },
+  {
+   "id": "fish",
+   "title": "Рыбное",
+   "en": "Fish"
+  },
+  {
+   "id": "pasta",
+   "title": "Паста",
+   "en": "Pasta"
+  },
+  {
+   "id": "pizza",
+   "title": "Пицца",
+   "en": "Pizza"
+  },
+  {
+   "id": "burgers",
+   "title": "Бургеры",
+   "en": "Burgers"
+  },
+  {
+   "id": "sandwiches",
+   "title": "Сэндвичи",
+   "en": "Sandwiches"
+  },
+  {
+   "id": "crunches",
+   "title": "Горячие хрустяшки",
+   "en": "Hot crunches"
+  },
+  {
+   "id": "potato",
+   "title": "Картофель",
+   "en": "Potato"
+  },
+  {
+   "id": "sides",
+   "title": "Гарниры",
+   "en": "Side dishes"
+  },
+  {
+   "id": "desserts",
+   "title": "Десерты",
+   "en": "Desserts"
+  },
+  {
+   "id": "rolls",
+   "title": "Роллы",
+   "en": "Rolls"
+  },
+  {
+   "id": "drinks",
+   "title": "Холодные напитки",
+   "en": "Cold drinks"
+  },
+  {
+   "id": "tea",
+   "title": "Чай",
+   "en": "Tea"
+  },
+  {
+   "id": "lemonades",
+   "title": "Лимонады",
+   "en": "Lemonades"
+  }
+ ],
+ "items": [
+  {
+   "id": "salads-1",
+   "category": "salads",
+   "name": "Овощная нарезка",
+   "en": "Vegetable mix",
+   "composition": "помидор, огурцы, лимон, болгарский перец, укроп",
+   "image": "/dishes/salads-1.webp",
+   "variants": [
+    {
+     "label": "190 г",
+     "price": 18
+    }
+   ]
+  },
+  {
+   "id": "salads-2",
+   "category": "salads",
+   "name": "Цезарь с курицей",
+   "en": "Caesar with chicken",
+   "composition": "куриное филе, сухарики, сыр пармезан, соус цезарь",
+   "image": "/dishes/salads-2.webp",
+   "variants": [
+    {
+     "label": "305 г",
+     "price": 21
+    }
+   ]
+  },
+  {
+   "id": "salads-3",
+   "category": "salads",
+   "name": "Оливье",
+   "en": "Olivier",
+   "composition": "колбаса, куриное яйцо, горошек",
+   "image": "/dishes/salads-3.webp",
+   "variants": [
+    {
+     "label": "235 г",
+     "price": 17
+    }
+   ]
+  },
+  {
+   "id": "salads-4",
+   "category": "salads",
+   "name": "Каприз",
+   "en": "Caprice",
+   "composition": "солёные огурцы, куриное филе, горошек",
+   "image": "/dishes/salads-4.webp",
+   "variants": [
+    {
+     "label": "220 г",
+     "price": 19
+    }
+   ]
+  },
+  {
+   "id": "salads-5",
+   "category": "salads",
+   "name": "Салат греческий",
+   "en": "Greek salad",
+   "composition": "помидор, сыр фетакса, маслины, болгарский перец",
+   "image": "/dishes/salads-5.webp",
+   "variants": [
+    {
+     "label": "290 г",
+     "price": 19
+    }
+   ]
+  },
+  {
+   "id": "salads-6",
+   "category": "salads",
+   "name": "Телятина с баклажаном",
+   "en": "Veal with eggplant",
+   "composition": "телятина, баклажан, помидоры, болгарский перец",
+   "image": "/dishes/salads-6.webp",
+   "variants": [
+    {
+     "label": "275 г",
+     "price": 19
+    }
+   ]
+  },
+  {
+   "id": "salads-7",
+   "category": "salads",
+   "name": "Чипсоны с ананасом",
+   "en": "Chips with pineapple",
+   "composition": "ананас, сыр пармезан, чипсы",
+   "image": "/dishes/salads-7.webp",
+   "variants": [
+    {
+     "label": "200 г",
+     "price": 19
+    }
+   ]
+  },
+  {
+   "id": "salads-8",
+   "category": "salads",
+   "name": "Тайский",
+   "en": "Thai",
+   "composition": "говядина, огурцы, помидоры",
+   "image": "/dishes/salads-8.webp",
+   "variants": [
+    {
+     "label": "405 г",
+     "price": 25
+    }
+   ]
+  },
+  {
+   "id": "salads-9",
+   "category": "salads",
+   "name": "Шакароб",
+   "en": "Shakarob",
+   "composition": "огурец, помидор, лук",
+   "image": "/dishes/salads-9.webp",
+   "variants": [
+    {
+     "label": "305 г",
+     "price": 18
+    }
+   ]
+  },
+  {
+   "id": "salads-10",
+   "category": "salads",
+   "name": "Курица в кисло-сладком соусе",
+   "en": "Sweet and sour chicken",
+   "composition": "помидоры, огурцы, куриное филе, кисло-сладкий соус",
+   "image": "/dishes/salads-10.webp",
+   "variants": [
+    {
+     "label": "200 г",
+     "price": 18
+    }
+   ]
+  },
+  {
+   "id": "soups-1",
+   "category": "soups",
+   "name": "Тыквенный крем-суп",
+   "en": "Pumpkin cream soup",
+   "composition": "лук, морковь, картошка, сыр пармезан, тыква",
+   "image": "/dishes/soups-11.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 17
+    }
+   ]
+  },
+  {
+   "id": "soups-2",
+   "category": "soups",
+   "name": "Борщ со сметаной",
+   "en": "Borsch with sour cream",
+   "composition": "говяжье мясо, картошка, капуста, сметана",
+   "image": "/dishes/soups-12.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 14
+    }
+   ]
+  },
+  {
+   "id": "soups-3",
+   "category": "soups",
+   "name": "Пельмешки",
+   "en": "Ravioli",
+   "composition": "пельмени, бульон, сметана",
+   "image": "/dishes/soups-13.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 15
+    }
+   ]
+  },
+  {
+   "id": "soups-4",
+   "category": "soups",
+   "name": "Куриный суп с лапшой",
+   "en": "Chicken noodle soup",
+   "composition": "куриное филе, лапша, зелень",
+   "image": "/dishes/soups-14.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 14
+    }
+   ]
+  },
+  {
+   "id": "soups-5",
+   "category": "soups",
+   "name": "Суп чечевичный",
+   "en": "Lentil soup",
+   "composition": "картошка, репчатый лук, сухари, чечевица",
+   "image": "/dishes/soups-15.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 16
+    }
+   ]
+  },
+  {
+   "id": "soups-6",
+   "category": "soups",
+   "name": "Суп аргентинский",
+   "en": "Argentinian soup",
+   "composition": "говядина, болгарский перец, томатный сок",
+   "image": "/dishes/soups-16.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 19
+    }
+   ]
+  },
+  {
+   "id": "soups-7",
+   "category": "soups",
+   "name": "Кукурузный крем-суп",
+   "en": "Corn cream soup",
+   "composition": "кукуруза, картошка, сыр",
+   "image": "/dishes/soups-17.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 19
+    }
+   ]
+  },
+  {
+   "id": "soups-8",
+   "category": "soups",
+   "name": "Сырный крем-суп",
+   "en": "Cheesy cream soup",
+   "composition": "лук, картошка, сыр пармезан",
+   "image": "/dishes/soups-18.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 21
+    }
+   ]
+  },
+  {
+   "id": "soups-9",
+   "category": "soups",
+   "name": "Суп с фрикадельками",
+   "en": "Soup with meatballs",
+   "composition": "фрикадельки, лапша, зелень",
+   "image": "/dishes/soups-19.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 18
+    }
+   ]
+  },
+  {
+   "id": "soups-10",
+   "category": "soups",
+   "name": "Том ям с креветками",
+   "en": "Tom yam shrimp soup",
+   "composition": "креветки, паста том ям, кокосовое молоко",
+   "image": "/dishes/soups-20.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 70
+    }
+   ]
+  },
+  {
+   "id": "soups-11",
+   "category": "soups",
+   "name": "Грибной суп",
+   "en": "Mushroom soup",
+   "composition": "грибы, сливки",
+   "image": "/dishes/soups-21.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 28
+    }
+   ]
+  },
+  {
+   "id": "soups-12",
+   "category": "soups",
+   "name": "Том ям с курицей",
+   "en": "Tom yam chicken soup",
+   "composition": "куриное филе, паста том ям, кокосовое молоко",
+   "image": "/dishes/soups-22.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 50
+    }
+   ]
+  },
+  {
+   "id": "main-1",
+   "category": "main",
+   "name": "Табака",
+   "en": "Rotisserie chicken",
+   "composition": "курица, помидоры, лук, соус",
+   "image": "/dishes/main-23.webp",
+   "variants": [
+    {
+     "label": "1000 г",
+     "price": 49
+    },
+    {
+     "label": "500 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "main-2",
+   "category": "main",
+   "name": "Мясо по-французски",
+   "en": "French meat",
+   "composition": "говядина, сыр, кукуруза",
+   "image": "/dishes/main-24.webp",
+   "variants": [
+    {
+     "label": "350 г",
+     "price": 34
+    }
+   ]
+  },
+  {
+   "id": "main-3",
+   "category": "main",
+   "name": "Мясо по-самаркандски",
+   "en": "Samarkand meat",
+   "composition": "картошка, овощи, кайла",
+   "image": "/dishes/main-25.webp",
+   "variants": [
+    {
+     "label": "420 г",
+     "price": 34
+    }
+   ]
+  },
+  {
+   "id": "main-4",
+   "category": "main",
+   "name": "Бефстроганов",
+   "en": "Stroganoff",
+   "composition": "куриное филе, говядина, грибы, пюре",
+   "image": "/dishes/main-26.webp",
+   "variants": [
+    {
+     "label": "250 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "main-5",
+   "category": "main",
+   "name": "Мясо по-домашнему",
+   "en": "Home-made meat",
+   "composition": "говядина, болгарский перец, картошка",
+   "image": "/dishes/main-27.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "main-6",
+   "category": "main",
+   "name": "Курица карри",
+   "en": "Chicken curry",
+   "composition": "рис, мясо, грибы, соус",
+   "image": "/dishes/main-28.webp",
+   "variants": [
+    {
+     "label": "305 г",
+     "price": 32
+    }
+   ]
+  },
+  {
+   "id": "main-7",
+   "category": "main",
+   "name": "Куриная грудка",
+   "en": "Chicken breast",
+   "composition": "куриное филе, сырный соус, сливки",
+   "image": "/dishes/main-29.webp",
+   "variants": [
+    {
+     "label": "520 г",
+     "price": 28
+    }
+   ]
+  },
+  {
+   "id": "main-8",
+   "category": "main",
+   "name": "Ала-банбей",
+   "en": "Ala-banbey",
+   "composition": "куриное филе, картошка фри, соус",
+   "image": "/dishes/main-30.webp",
+   "variants": [
+    {
+     "label": "290 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "main-9",
+   "category": "main",
+   "name": "Курица пикато",
+   "en": "Picato chicken",
+   "composition": "куриное филе, сыр, кукуруза",
+   "image": "/dishes/main-31.webp",
+   "variants": [
+    {
+     "label": "625 г",
+     "price": 39
+    }
+   ]
+  },
+  {
+   "id": "main-10",
+   "category": "main",
+   "name": "Лагман с говядиной",
+   "en": "Lagman with beef",
+   "composition": "контр-филе, лапша, овощи",
+   "image": "/dishes/main-32.webp",
+   "variants": [
+    {
+     "label": "350 г",
+     "price": 38
+    }
+   ]
+  },
+  {
+   "id": "main-11",
+   "category": "main",
+   "name": "Лагман с курицей",
+   "en": "Chicken lagman",
+   "composition": "куриное филе, лапша, овощи",
+   "image": "/dishes/main-33.webp",
+   "variants": [
+    {
+     "label": "350 г",
+     "price": 36
+    }
+   ]
+  },
+  {
+   "id": "main-12",
+   "category": "main",
+   "name": "Филе миньон",
+   "en": "Filet mignon",
+   "composition": "",
+   "image": "/dishes/main-34.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 45
+    }
+   ]
+  },
+  {
+   "id": "main-13",
+   "category": "main",
+   "name": "Чикен пармезан",
+   "en": "Chicken parmesan",
+   "composition": "",
+   "image": "/dishes/main-35.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 45
+    }
+   ]
+  },
+  {
+   "id": "main-14",
+   "category": "main",
+   "name": "Стейк жареный",
+   "en": "Fried steak",
+   "composition": "",
+   "image": "/dishes/main-36.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 38
+    }
+   ]
+  },
+  {
+   "id": "main-15",
+   "category": "main",
+   "name": "Чили чиз фрайз",
+   "en": "Chili cheese fries",
+   "composition": "",
+   "image": "/dishes/main-37.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 43
+    }
+   ]
+  },
+  {
+   "id": "main-16",
+   "category": "main",
+   "name": "Куриное ассорти",
+   "en": "Assorted chicken",
+   "composition": "фри, крылышки, наггетсы, стрипсы",
+   "image": "/dishes/main-38.webp",
+   "variants": [
+    {
+     "label": "820 г",
+     "price": 60
+    }
+   ]
+  },
+  {
+   "id": "main-17",
+   "category": "main",
+   "name": "Крылышки в кисло-сладком соусе",
+   "en": "Wings in sweet and sour sauce",
+   "composition": "",
+   "image": "/dishes/main-39.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 36
+    }
+   ]
+  },
+  {
+   "id": "main-18",
+   "category": "main",
+   "name": "Курица по-мексикански",
+   "en": "Mexican chicken",
+   "composition": "куриное филе, соус барбекю, болгарский перец",
+   "image": "/dishes/main-40.webp",
+   "variants": [
+    {
+     "label": "435 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "main-19",
+   "category": "main",
+   "name": "Котлеты по-киевски",
+   "en": "Chicken Kiev",
+   "composition": "куриное филе, соус",
+   "image": "/dishes/main-41.webp",
+   "variants": [
+    {
+     "label": "520 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "main-20",
+   "category": "main",
+   "name": "Шашлычки с телятиной",
+   "en": "Veal shashlik",
+   "composition": "телятина, лук, соус барбекю",
+   "image": "/dishes/main-42.webp",
+   "variants": [
+    {
+     "label": "430 г",
+     "price": 34
+    }
+   ]
+  },
+  {
+   "id": "main-21",
+   "category": "main",
+   "name": "Куриные шашлычки",
+   "en": "Chicken shashlik",
+   "composition": "куриное филе, лук, соус барбекю",
+   "image": "/dishes/main-43.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "shashlik-1",
+   "category": "shashlik",
+   "name": "Шашлык ассорти",
+   "en": "Assorted",
+   "composition": "контр-филе, куриное филе, лаваш, лук, соус барбекю",
+   "image": "/dishes/shashlik-44.webp",
+   "variants": [
+    {
+     "label": "830 г",
+     "price": 59
+    }
+   ]
+  },
+  {
+   "id": "pizza-1",
+   "category": "pizza",
+   "name": "Пицца мясная",
+   "en": "Meat pizza",
+   "composition": "помидор, сыр моцарелла, говядина",
+   "image": "/dishes/pizza-45.webp",
+   "variants": [
+    {
+     "label": "560 г",
+     "price": 48
+    }
+   ]
+  },
+  {
+   "id": "pizza-2",
+   "category": "pizza",
+   "name": "Пицца от шефа",
+   "en": "Pizza by chef",
+   "composition": "сыр, контр-филе, грибы, куриное филе",
+   "image": "/dishes/pizza-46.webp",
+   "variants": [
+    {
+     "label": "660 г",
+     "price": 64
+    }
+   ]
+  },
+  {
+   "id": "pizza-3",
+   "category": "pizza",
+   "name": "Четыре сыра",
+   "en": "Four cheese",
+   "composition": "сыр моцарелла, сыр виола, сыр чеддер, сыр пармезан",
+   "image": "/dishes/pizza-47.webp",
+   "variants": [
+    {
+     "label": "540 г",
+     "price": 54
+    }
+   ]
+  },
+  {
+   "id": "pizza-4",
+   "category": "pizza",
+   "name": "Пицца ассорти",
+   "en": "Assorted pizza",
+   "composition": "маслины, сыр моцарелла, куриное филе, болгарский перец, грибы",
+   "image": "/dishes/pizza-48.webp",
+   "variants": [
+    {
+     "label": "590 г",
+     "price": 49
+    }
+   ]
+  },
+  {
+   "id": "pizza-5",
+   "category": "pizza",
+   "name": "Пицца Маргарита",
+   "en": "Pizza margarita",
+   "composition": "помидор, сыр моцарелла",
+   "image": "/dishes/pizza-49.webp",
+   "variants": [
+    {
+     "label": "440 г",
+     "price": 34
+    }
+   ]
+  },
+  {
+   "id": "pizza-6",
+   "category": "pizza",
+   "name": "Пицца Набережная",
+   "en": "Pizza naberezhnaya",
+   "composition": "говядина, болгарский перец, сыр, помидор",
+   "image": "/dishes/pizza-50.webp",
+   "variants": [
+    {
+     "label": "660 г",
+     "price": 58
+    }
+   ]
+  },
+  {
+   "id": "pizza-7",
+   "category": "pizza",
+   "name": "Четыре сезона",
+   "en": "Four seasons",
+   "composition": "сыр моцарелла, сыр чеддер, сыр пармезан, куриное филе",
+   "image": "/dishes/pizza-51.webp",
+   "variants": [
+    {
+     "label": "605 г",
+     "price": 59
+    }
+   ]
+  },
+  {
+   "id": "pizza-8",
+   "category": "pizza",
+   "name": "Гавайская пицца",
+   "en": "Hawaiian pizza",
+   "composition": "",
+   "image": "/dishes/pizza-52.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 45
+    }
+   ]
+  },
+  {
+   "id": "pizza-9",
+   "category": "pizza",
+   "name": "Пепперони",
+   "en": "Pepperoni",
+   "composition": "помидор, сыр моцарелла, маслины",
+   "image": "/dishes/pizza-53.webp",
+   "variants": [
+    {
+     "label": "520 г",
+     "price": 44
+    }
+   ]
+  },
+  {
+   "id": "pizza-10",
+   "category": "pizza",
+   "name": "Пицца куриная",
+   "en": "Chicken pizza",
+   "composition": "помидор, сыр моцарелла, куриное филе, грибы",
+   "image": "/dishes/pizza-54.webp",
+   "variants": [
+    {
+     "label": "640 г",
+     "price": 39
+    }
+   ]
+  },
+  {
+   "id": "pizza-11",
+   "category": "pizza",
+   "name": "BBQ чикен пицца",
+   "en": "BBQ chicken pizza",
+   "composition": "",
+   "image": "/dishes/pizza-55.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 43
+    }
+   ]
+  },
+  {
+   "id": "pizza-12",
+   "category": "pizza",
+   "name": "Филе стейк пицца",
+   "en": "Fillet steak pizza",
+   "composition": "",
+   "image": "/dishes/pizza-56.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 45
+    }
+   ]
+  },
+  {
+   "id": "pizza-13",
+   "category": "pizza",
+   "name": "Тако пицца",
+   "en": "Tacos pizza",
+   "composition": "",
+   "image": "/dishes/pizza-57.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 45
+    }
+   ]
+  },
+  {
+   "id": "burgers-1",
+   "category": "burgers",
+   "name": "Чикен бургер",
+   "en": "Chicken burger",
+   "composition": "",
+   "image": "/dishes/burgers-58.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 35
+    }
+   ]
+  },
+  {
+   "id": "burgers-2",
+   "category": "burgers",
+   "name": "Двойной Тенчбургер",
+   "en": "Double Tenjburger",
+   "composition": "двойная говядина, соус, сыр, фри",
+   "image": "/dishes/burgers-59.webp",
+   "variants": [
+    {
+     "label": "600 г",
+     "price": 39
+    }
+   ]
+  },
+  {
+   "id": "burgers-3",
+   "category": "burgers",
+   "name": "Гамбургер классик",
+   "en": "Hamburger classic",
+   "composition": "",
+   "image": "/dishes/burgers-60.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 38
+    }
+   ]
+  },
+  {
+   "id": "burgers-4",
+   "category": "burgers",
+   "name": "Чиз стейк",
+   "en": "Cheese steak",
+   "composition": "мясо, соус, сыр",
+   "image": "/dishes/burgers-61.webp",
+   "variants": [
+    {
+     "label": "300 г",
+     "price": 42
+    }
+   ]
+  },
+  {
+   "id": "burgers-5",
+   "category": "burgers",
+   "name": "Куриный бургер",
+   "en": "KFC burger",
+   "composition": "курица, сыр, соус, фри",
+   "image": "/dishes/burgers-62.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 12
+    }
+   ]
+  },
+  {
+   "id": "burgers-6",
+   "category": "burgers",
+   "name": "Барбекю бургер",
+   "en": "BBQ burger",
+   "composition": "говядина, сыр, соус барбекю, фри",
+   "image": "/dishes/burgers-63.webp",
+   "variants": [
+    {
+     "label": "300 г",
+     "price": 28
+    }
+   ]
+  },
+  {
+   "id": "sandwiches-1",
+   "category": "sandwiches",
+   "name": "Кесадилья с курицей",
+   "en": "Chicken quesadilla",
+   "composition": "куриное филе, соус, сыр",
+   "image": "/dishes/sandwiches-64.webp",
+   "variants": [
+    {
+     "label": "355 г",
+     "price": 24
+    }
+   ]
+  },
+  {
+   "id": "sandwiches-2",
+   "category": "sandwiches",
+   "name": "Сэндвич булочки",
+   "en": "Sandwich buns",
+   "composition": "куриное филе, болгарский перец, сыр",
+   "image": "/dishes/sandwiches-65.webp",
+   "variants": [
+    {
+     "label": "300 г",
+     "price": 36
+    }
+   ]
+  },
+  {
+   "id": "sandwiches-3",
+   "category": "sandwiches",
+   "name": "Фили чизстейк",
+   "en": "Philly cheesesteak",
+   "composition": "говядина, болгарский перец, соус",
+   "image": "/dishes/sandwiches-66.webp",
+   "variants": [
+    {
+     "label": "340 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "sandwiches-4",
+   "category": "sandwiches",
+   "name": "Бурито",
+   "en": "Burrito",
+   "composition": "",
+   "image": "/dishes/sandwiches-67.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 40
+    }
+   ]
+  },
+  {
+   "id": "sandwiches-5",
+   "category": "sandwiches",
+   "name": "Филадельфия",
+   "en": "Philadelphia",
+   "composition": "куриное филе, болгарский перец, шампиньоны, соус",
+   "image": "/dishes/sandwiches-68.webp",
+   "variants": [
+    {
+     "label": "400 г",
+     "price": 22
+    }
+   ]
+  },
+  {
+   "id": "sandwiches-6",
+   "category": "sandwiches",
+   "name": "Клаб сэндвич",
+   "en": "Club sandwich",
+   "composition": "сыр, яйцо, куриное филе, соус",
+   "image": "/dishes/sandwiches-69.webp",
+   "variants": [
+    {
+     "label": "230 г",
+     "price": 17
+    }
+   ]
+  },
+  {
+   "id": "crunches-1",
+   "category": "crunches",
+   "name": "Крылышки KFC",
+   "en": "KFC wings",
+   "composition": "помидоры, огурцы, куриные крылышки, соус",
+   "image": "/dishes/crunches-70.webp",
+   "variants": [
+    {
+     "label": "450 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "crunches-2",
+   "category": "crunches",
+   "name": "Стрипсы",
+   "en": "Strips",
+   "composition": "куриные палочки, соус",
+   "image": "/dishes/crunches-71.webp",
+   "variants": [
+    {
+     "label": "460 г",
+     "price": 24
+    }
+   ]
+  },
+  {
+   "id": "crunches-3",
+   "category": "crunches",
+   "name": "Наггетсы",
+   "en": "Nuggets",
+   "composition": "куриное филе, соус",
+   "image": "/dishes/crunches-72.webp",
+   "variants": [
+    {
+     "label": "360 г",
+     "price": 22
+    }
+   ]
+  },
+  {
+   "id": "crunches-4",
+   "category": "crunches",
+   "name": "Крылышки Баффало",
+   "en": "Buffalo wings",
+   "composition": "крылышки, томатный соус",
+   "image": "/dishes/crunches-73.webp",
+   "variants": [
+    {
+     "label": "330 г",
+     "price": 25
+    }
+   ]
+  },
+  {
+   "id": "steak-1",
+   "category": "steak",
+   "name": "Классический стейк",
+   "en": "Classic steak",
+   "composition": "контр-филе, баклажан, помидор, кабачок",
+   "image": "/dishes/steak-74.webp",
+   "variants": [
+    {
+     "label": "350 г",
+     "price": 45
+    }
+   ]
+  },
+  {
+   "id": "steak-2",
+   "category": "steak",
+   "name": "Тибон",
+   "en": "T-bone",
+   "composition": "стейк ти-бон, баклажан, кабачок, помидор",
+   "image": "/dishes/steak-75.webp",
+   "variants": [
+    {
+     "label": "370 г",
+     "price": 65
+    }
+   ]
+  },
+  {
+   "id": "steak-3",
+   "category": "steak",
+   "name": "Миньон",
+   "en": "Mignon",
+   "composition": "филе миньон, помидор, баклажан, кабачок",
+   "image": "/dishes/steak-76.webp",
+   "variants": [
+    {
+     "label": "370 г",
+     "price": 49
+    }
+   ]
+  },
+  {
+   "id": "sides-1",
+   "category": "sides",
+   "name": "Рис с овощами",
+   "en": "Rice with vegetables",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "150 г",
+     "price": 9
+    }
+   ]
+  },
+  {
+   "id": "sides-2",
+   "category": "sides",
+   "name": "Пюре",
+   "en": "Mashed potatoes",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "150 г",
+     "price": 9
+    }
+   ]
+  },
+  {
+   "id": "sides-3",
+   "category": "sides",
+   "name": "Картошка по-деревенски",
+   "en": "Country potatoes",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "250 г",
+     "price": 12
+    }
+   ]
+  },
+  {
+   "id": "sides-4",
+   "category": "sides",
+   "name": "Картошка фри",
+   "en": "French fries",
+   "composition": "",
+   "image": "/dishes/sides-77.webp",
+   "variants": [
+    {
+     "label": "255 г",
+     "price": 10
+    }
+   ]
+  },
+  {
+   "id": "sides-5",
+   "category": "sides",
+   "name": "Овощи на гриле",
+   "en": "Grilled vegetables",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "150 г",
+     "price": 14
+    }
+   ]
+  },
+  {
+   "id": "desserts-1",
+   "category": "desserts",
+   "name": "Красный бархат",
+   "en": "Red velvet",
+   "composition": "",
+   "image": "/dishes/desserts-78.webp",
+   "variants": [
+    {
+     "label": "150 г",
+     "price": 24
+    }
+   ]
+  },
+  {
+   "id": "desserts-2",
+   "category": "desserts",
+   "name": "Сникерс",
+   "en": "Snickers",
+   "composition": "",
+   "image": "/dishes/desserts-79.webp",
+   "variants": [
+    {
+     "label": "150 г",
+     "price": 24
+    }
+   ]
+  },
+  {
+   "id": "desserts-3",
+   "category": "desserts",
+   "name": "Чизкейк",
+   "en": "Cheesecake",
+   "composition": "",
+   "image": "/dishes/desserts-80.webp",
+   "variants": [
+    {
+     "label": "150 г",
+     "price": 19
+    }
+   ]
+  },
+  {
+   "id": "desserts-4",
+   "category": "desserts",
+   "name": "Малиновый бокал",
+   "en": "Crimson glass",
+   "composition": "",
+   "image": "/dishes/desserts-81.webp",
+   "variants": [
+    {
+     "label": "100 г",
+     "price": 19
+    }
+   ]
+  },
+  {
+   "id": "rolls-1",
+   "category": "rolls",
+   "name": "Ролл Филадельфия",
+   "en": "Philadelphia roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 63
+    }
+   ]
+  },
+  {
+   "id": "rolls-2",
+   "category": "rolls",
+   "name": "Ролл Эби темпура",
+   "en": "Ebi tempura roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 49
+    }
+   ]
+  },
+  {
+   "id": "rolls-3",
+   "category": "rolls",
+   "name": "Ролл угорь с пюре из груши",
+   "en": "Eel roll with pear puree",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 49
+    }
+   ]
+  },
+  {
+   "id": "rolls-4",
+   "category": "rolls",
+   "name": "Ролл Америка",
+   "en": "America roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 38
+    }
+   ]
+  },
+  {
+   "id": "rolls-5",
+   "category": "rolls",
+   "name": "Ролл Эби Калифорния",
+   "en": "Ebi California roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 68
+    }
+   ]
+  },
+  {
+   "id": "rolls-6",
+   "category": "rolls",
+   "name": "Ролл 4 сыра",
+   "en": "4 cheese roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 38
+    }
+   ]
+  },
+  {
+   "id": "rolls-7",
+   "category": "rolls",
+   "name": "Ролл Филадельфия темпура",
+   "en": "Philadelphia tempura roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 49
+    }
+   ]
+  },
+  {
+   "id": "rolls-8",
+   "category": "rolls",
+   "name": "Ролл Цезарь",
+   "en": "Caesar roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 38
+    }
+   ]
+  },
+  {
+   "id": "rolls-9",
+   "category": "rolls",
+   "name": "Ролл угорь жареный",
+   "en": "Fried eel roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 48
+    }
+   ]
+  },
+  {
+   "id": "rolls-10",
+   "category": "rolls",
+   "name": "Ролл лосось с угрём",
+   "en": "Salmon and eel roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 49
+    }
+   ]
+  },
+  {
+   "id": "rolls-11",
+   "category": "rolls",
+   "name": "Ролл жареный с курицей",
+   "en": "Fried chicken roll",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "",
+     "price": 38
+    }
+   ]
+  },
+  {
+   "id": "drinks-1",
+   "category": "drinks",
+   "name": "RC Cola",
+   "en": "RC Cola",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 10
+    },
+    {
+     "label": "0,5 л",
+     "price": 6
+    }
+   ]
+  },
+  {
+   "id": "drinks-2",
+   "category": "drinks",
+   "name": "Pepsi",
+   "en": "Pepsi",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 10
+    },
+    {
+     "label": "0,5 л",
+     "price": 6
+    }
+   ]
+  },
+  {
+   "id": "drinks-3",
+   "category": "drinks",
+   "name": "Coca-Cola",
+   "en": "Coca-Cola",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 10
+    },
+    {
+     "label": "0,5 л",
+     "price": 6
+    }
+   ]
+  },
+  {
+   "id": "drinks-4",
+   "category": "drinks",
+   "name": "Fanta",
+   "en": "Fanta",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 10
+    },
+    {
+     "label": "0,5 л",
+     "price": 6
+    }
+   ]
+  },
+  {
+   "id": "drinks-5",
+   "category": "drinks",
+   "name": "Sprite",
+   "en": "Sprite",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 10
+    },
+    {
+     "label": "0,5 л",
+     "price": 6
+    }
+   ]
+  },
+  {
+   "id": "drinks-6",
+   "category": "drinks",
+   "name": "Вода без газа",
+   "en": "Still water",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 8
+    },
+    {
+     "label": "0,5 л",
+     "price": 5
+    }
+   ]
+  },
+  {
+   "id": "drinks-7",
+   "category": "drinks",
+   "name": "Минеральная вода",
+   "en": "Mineral water",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 10
+    },
+    {
+     "label": "0,5 л",
+     "price": 6
+    }
+   ]
+  },
+  {
+   "id": "drinks-8",
+   "category": "drinks",
+   "name": "Добрый сок",
+   "en": "Dobry juice",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 19
+    }
+   ]
+  },
+  {
+   "id": "drinks-9",
+   "category": "drinks",
+   "name": "Borjomi",
+   "en": "Borjomi",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 18
+    }
+   ]
+  },
+  {
+   "id": "drinks-10",
+   "category": "drinks",
+   "name": "XL",
+   "en": "XL energy",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "450 мл",
+     "price": 10
+    }
+   ]
+  },
+  {
+   "id": "drinks-11",
+   "category": "drinks",
+   "name": "Adrenaline",
+   "en": "Adrenaline",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "450 мл",
+     "price": 20
+    }
+   ]
+  },
+  {
+   "id": "drinks-12",
+   "category": "drinks",
+   "name": "Gorilla",
+   "en": "Gorilla",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "450 мл",
+     "price": 10
+    }
+   ]
+  },
+  {
+   "id": "tea-1",
+   "category": "tea",
+   "name": "Лимон-имбирь",
+   "en": "Lemon ginger",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 18
+    }
+   ]
+  },
+  {
+   "id": "tea-2",
+   "category": "tea",
+   "name": "Мёд-имбирь",
+   "en": "Honey ginger",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 18
+    }
+   ]
+  },
+  {
+   "id": "tea-3",
+   "category": "tea",
+   "name": "Чай с корицей",
+   "en": "Cinnamon tea",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 14
+    }
+   ]
+  },
+  {
+   "id": "tea-4",
+   "category": "tea",
+   "name": "Чай с лимоном",
+   "en": "Lemon tea",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 10
+    }
+   ]
+  },
+  {
+   "id": "tea-5",
+   "category": "tea",
+   "name": "Малиновый чай",
+   "en": "Raspberry",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 20
+    }
+   ]
+  },
+  {
+   "id": "tea-6",
+   "category": "tea",
+   "name": "Фруктовый чай",
+   "en": "Fruit",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 22
+    }
+   ]
+  },
+  {
+   "id": "tea-7",
+   "category": "tea",
+   "name": "Ягодный чай",
+   "en": "Berry",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 20
+    }
+   ]
+  },
+  {
+   "id": "tea-8",
+   "category": "tea",
+   "name": "Зелёный чай",
+   "en": "Green",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 6
+    }
+   ]
+  },
+  {
+   "id": "tea-9",
+   "category": "tea",
+   "name": "Чёрный чай",
+   "en": "Black",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "1 л",
+     "price": 6
+    }
+   ]
+  },
+  {
+   "id": "lemonades-1",
+   "category": "lemonades",
+   "name": "Малиновый лимонад",
+   "en": "Raspberry",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "300 мл",
+     "price": 11
+    },
+    {
+     "label": "1 л",
+     "price": 22
+    }
+   ]
+  },
+  {
+   "id": "lemonades-2",
+   "category": "lemonades",
+   "name": "Клубничная карамель",
+   "en": "Strawberry caramel",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "300 мл",
+     "price": 11
+    },
+    {
+     "label": "1 л",
+     "price": 26
+    }
+   ]
+  },
+  {
+   "id": "lemonades-3",
+   "category": "lemonades",
+   "name": "Апельсиновый лимонад",
+   "en": "Orange",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "300 мл",
+     "price": 11
+    },
+    {
+     "label": "1 л",
+     "price": 24
+    }
+   ]
+  },
+  {
+   "id": "lemonades-4",
+   "category": "lemonades",
+   "name": "Дюшес",
+   "en": "Duchess",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "300 мл",
+     "price": 11
+    },
+    {
+     "label": "1 л",
+     "price": 22
+    }
+   ]
+  },
+  {
+   "id": "lemonades-5",
+   "category": "lemonades",
+   "name": "Ягодный лимонад",
+   "en": "Berry",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "300 мл",
+     "price": 11
+    },
+    {
+     "label": "1 л",
+     "price": 24
+    }
+   ]
+  },
+  {
+   "id": "lemonades-6",
+   "category": "lemonades",
+   "name": "Домашний лимонад",
+   "en": "Home",
+   "composition": "",
+   "image": "",
+   "variants": [
+    {
+     "label": "300 мл",
+     "price": 11
+    },
+    {
+     "label": "1 л",
+     "price": 26
+    }
+   ]
+  },
+  {
+   "id": "desserts-5",
+   "category": "desserts",
+   "name": "Торт Фантазия",
+   "en": "Cake fantasy",
+   "composition": "",
+   "image": "/dishes/desserts-82.webp",
+   "variants": [
+    {
+     "label": "150 г",
+     "price": 22
+    }
+   ]
+  },
+  {
+   "id": "fish-1",
+   "category": "fish",
+   "name": "Форель запечённая",
+   "en": "Baked trout",
+   "composition": "форель запечённая, маслины, лимон",
+   "image": "/dishes/fish-83.webp",
+   "variants": [
+    {
+     "label": "625 г",
+     "price": 59
+    }
+   ]
+  },
+  {
+   "id": "fish-2",
+   "category": "fish",
+   "name": "Форель жареная",
+   "en": "Fried trout",
+   "composition": "форель жареная, маслины, лимон",
+   "image": "/dishes/fish-83.webp",
+   "variants": [
+    {
+     "label": "625 г",
+     "price": 64
+    }
+   ]
+  },
+  {
+   "id": "potato-1",
+   "category": "potato",
+   "name": "Растик фрайс",
+   "en": "Rustic fries",
+   "composition": "картошка, лук анзур, сыр, куриная грудка",
+   "image": "/dishes/potato-84.webp",
+   "variants": [
+    {
+     "label": "405 г",
+     "price": 26
+    }
+   ]
+  },
+  {
+   "id": "potato-2",
+   "category": "potato",
+   "name": "Суприм",
+   "en": "Supreme",
+   "composition": "солёные огурцы, сыр, картошка, соус, куриная грудка",
+   "image": "/dishes/potato-85.webp",
+   "variants": [
+    {
+     "label": "490 г",
+     "price": 29
+    }
+   ]
+  },
+  {
+   "id": "potato-3",
+   "category": "potato",
+   "name": "Картофель барбекю",
+   "en": "BBQ",
+   "composition": "солёные огурцы, картошка, говядина, сыр",
+   "image": "/dishes/potato-86.webp",
+   "variants": [
+    {
+     "label": "460 г",
+     "price": 27
+    }
+   ]
+  },
+  {
+   "id": "pasta-1",
+   "category": "pasta",
+   "name": "Пенне арабьята",
+   "en": "Penne arrabbiata",
+   "composition": "грибы, мясо, сыр пармезан, помидор, курица",
+   "image": "/dishes/pasta-87.webp",
+   "variants": [
+    {
+     "label": "575 г",
+     "price": 44
+    }
+   ]
+  },
+  {
+   "id": "pasta-2",
+   "category": "pasta",
+   "name": "Болоньезе",
+   "en": "Bolognese",
+   "composition": "мясной соус, томатный соус, сыр пармезан",
+   "image": "/dishes/pasta-88.webp",
+   "variants": [
+    {
+     "label": "350 г",
+     "price": 32
+    }
+   ]
+  },
+  {
+   "id": "pasta-3",
+   "category": "pasta",
+   "name": "Альфредо",
+   "en": "Alfredo",
+   "composition": "солёные огурцы, сыр, контр-филе, грибы",
+   "image": "/dishes/pasta-89.webp",
+   "variants": [
+    {
+     "label": "650 г",
+     "price": 49
+    }
+   ]
+  },
+  {
+   "id": "pasta-4",
+   "category": "pasta",
+   "name": "Карбонара",
+   "en": "Carbonara",
+   "composition": "контр-филе, грибы, сыр пармезан",
+   "image": "/dishes/pasta-90.webp",
+   "variants": [
+    {
+     "label": "380 г",
+     "price": 34
+    }
+   ]
+  }
+ ]
+}
