@@ -69,6 +69,32 @@ npm run build
 pm2 restart online-menu
 ```
 
+## Автодеплой через GitHub Actions
+
+При каждом пуше в `main` GitHub проверяет типы и собирает проект. Если всё прошло, он заходит на VPS по SSH, подтягивает код, пересобирает и перезапускает сервер. Пока секреты не заданы, выполняется только проверка.
+
+Один раз на VPS, после развёртывания из раздела выше:
+
+```bash
+ssh-keygen -t ed25519 -f ~/.ssh/github_deploy -N ""
+cat ~/.ssh/github_deploy.pub >> ~/.ssh/authorized_keys
+cat ~/.ssh/github_deploy
+```
+
+В репозитории: Settings → Secrets and variables → Actions → New repository secret.
+
+| Секрет | Значение |
+|---|---|
+| `VPS_HOST` | IP или домен сервера |
+| `VPS_USER` | Пользователь, под которым запущен pm2 |
+| `VPS_SSH_KEY` | Весь вывод `cat ~/.ssh/github_deploy`, включая строки BEGIN и END |
+| `VPS_PORT` | Необязательно, если SSH не на 22 |
+| `APP_DIR` | Необязательно, если проект не в `~/online-menu` |
+
+Node.js на сервере ставьте системно (например, через NodeSource), а не через nvm: при входе по SSH из GitHub nvm не подключается, и команды `npm` и `pm2` не находятся.
+
+Запустить деплой вручную: вкладка Actions → Deploy → Run workflow.
+
 ## Важно
 
 - Бот должен работать в одном экземпляре. Если запущены две копии с одним токеном, они мешают друг другу и сообщения теряются. Поэтому в `ecosystem.config.cjs` одна копия.
